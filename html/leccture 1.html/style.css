@@ -1,0 +1,16 @@
+#navbar{
+    background-color: black;
+    color: white
+    margin:0
+    height: 30px;
+}
+#logo{
+    color: white;
+font-size: 25px;
+}
+button{
+    background-color: yellow;
+}
+a{
+    margin-right: 75px;
+}
